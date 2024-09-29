@@ -25,6 +25,7 @@ ul {
     padding: 0;
 }
 
+
 li {
     background-color: #fff;
     margin: 0.5em 0;
